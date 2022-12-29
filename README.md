@@ -1,10 +1,15 @@
 <p align="center">
-    <img src="tiny_story.gif" width="200">
+    <img src="tiny_story.gif" width="400">
 </p>
 
 # Tiny story written in Python
 
 A night in my neighborhood
+
+## Official Selections
+
+- [Processing Community Day 2022 Brasil](https://pcd2022.encontrosdigitais.com.br/)
+- [Processing Community Day 2022 Coimbra](https://pcdcoimbra.dei.uc.pt/2022/)
 
 ## Requirements
 
